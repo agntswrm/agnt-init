@@ -25,6 +25,3 @@ This document exists for non-obvious, error-prone shortcomings in the codebase, 
 ---
 ```
 
-## license
-
-apache 2.0
