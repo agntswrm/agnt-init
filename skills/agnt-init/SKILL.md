@@ -1,3 +1,8 @@
+---
+name: agnt-init
+description: Initialize a project for agents by creating AGENTS.md and symlinking CLAUDE.md to it.
+---
+
 # agnt-init
 
 Initialize a project for agents
