@@ -1,14 +1,14 @@
 # agnt-init
 
-Initialize a project for agents.
+initialize a project for agents.
 
-## Install
+## install
 
 ```
 npx skills add https://github.com/agntswrm/agnt-init --skill agnt-init
 ```
 
-## Result
+## result
 
 ```
 project/
@@ -16,6 +16,6 @@ project/
 └── CLAUDE.md → AGENTS.md  ← symlink
 ```
 
-## License
+## license
 
-Apache 2.0
+apache 2.0
